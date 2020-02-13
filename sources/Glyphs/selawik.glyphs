@@ -14,7 +14,8 @@ DisplayStrings = (
 "Á/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ/Cacute/Ccaron Ç/Cdotaccent/Dcaron",
 "Á/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ/Cacute/Ccaron Ç/Cdotaccent/Dcaron/Ncommaaccent",
 "HHL/Lcaron HO/Lcaron OOH\012/Lcaron Oréal L",
-"H/.notdef H"
+"H/.notdef H",
+"ø"
 );
 copyright = "Copyright 2015 The Selawik Project Authors (https://github.com/microsoft/Selawik)";
 customParameters = (
@@ -70852,6 +70853,10 @@ customParameters = (
 {
 name = Filter;
 value = "AddExtremes;";
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 250;
