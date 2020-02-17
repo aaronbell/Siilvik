@@ -70852,6 +70852,10 @@ customParameters = (
 {
 name = Filter;
 value = "AddExtremes;";
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 300;
