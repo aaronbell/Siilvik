@@ -1,5 +1,5 @@
-# Microsoft Selawik
-Selawik is an open source replacement for Segoe UI. 
+# Siilvik
+Siilvik is a non-RFN version of Selawik, an open source replacement for Segoe UI. 
 
 # Known open issues:
 * Selawik is missing kerning to match Segoe UI. 
