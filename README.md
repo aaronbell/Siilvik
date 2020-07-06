@@ -1,8 +1,6 @@
 # Siilvik
-Siilvik is a non-RFN version of Selawik, an open source replacement for Segoe UI. 
+Siilvik is a non-RFN version of [Selawik](https://github.com/microsoft/Selawik), an open source replacement for Segoe UI. 
 
 # Known open issues:
 * Selawik is missing kerning to match Segoe UI. 
 * Selawik needs improved hinting. 
-
-[Microsoft's Open Source Fonts](https://github.com/Microsoft/fonts)
