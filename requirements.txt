@@ -1,2 +1,4 @@
-fontmake==2.0.3
+fontmake
 git+https://github.com/googlefonts/gftools
+statmake
+brotli
