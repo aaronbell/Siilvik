@@ -13,9 +13,7 @@ DisplayStrings = (
 "Á/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ/Cacute/Ccaron Ç/Cdotaccent/Dcaron",
 "Á/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ/Cacute/Ccaron Ç/Cdotaccent/Dcaron/Ncommaaccent",
 "HHL/Lcaron HO/Lcaron OOH\012/Lcaron Oréal/space L",
-rvy,
-"/.notdef/space/nbspace ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ/Cacute/Ccaron Ç/Cdotaccent/Dcaron/Dcroat ÐÉ/Ecaron ÊË/Edotaccent È/Emacron/Eogonek/Gbreve/Gcommaaccent/Gdotaccent/Hbar ÍÎÏ/Idotaccent Ì/Imacron/Iogonek/Kcommaaccent/Lacute/Lcaron/Lcommaaccent/Ldot/Lslash/Nacute/Ncaron/Ncommaaccent Ñ/Eng ÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE/Racute/Rcaron/Rcommaaccent/Sacute/Scaron/Scedilla/Scommaaccent/Tbar/Tcaron/Tcedilla/Tcommaaccent ÞÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring/Wacute/Wcircumflex/Wdieresis/Wgrave Ý/Ycircumflex/Ydieresis/Ygrave/Zacute/Zcaron/Zdotaccent á/abreve âäà/amacron/aogonek åãæ/cacute/ccaron ç/cdotaccent/dcaron/dcroat é/ecaron êë/edotaccent è/emacron/eogonek ð/gbreve/gcommaaccent/gdotaccent/hbar íîï/idotaccent/idotless ì/imacron/iogonek/jdotless/kcommaaccent/lacute/lcaron/lcommaaccent/ldot/lslash/nacute/ncaron/ncommaaccent ñ/eng óôöò/ohungarumlaut/omacron øõ/oe/racute/rcaron/rcommaaccent/sacute/scaron/scedilla/scommaaccent/tbar/tcaron/tcedilla/tcommaaccent þúûüù/uhungarumlaut/umacron/uogonek/uring/wacute/wcircumflex/wdieresis/wgrave ý/ycircumflex/ydieresis/ygrave/zacute/zcaron/zdotaccent ß&@*©®/trademark ^~`´/circumflex/caron/caroncomb.alt/tilde ¨¯/breve/ring/hungarumlaut/dotaccent ¸/ogonek/gravecomb/acutecomb/circumflexcomb/tildecomb/macroncomb/brevecomb/dotaccentcomb/dieresiscomb/ringcomb/hungarumlautcomb/caroncomb/commaaccentcomb/commaturnedabovecomb/cedillacomb/ogonekcomb ­-/endash/emdash _.,:;!¡?¿/ellipsis ·/bullet///backslash |¦()[]{}'\"/quoteleft/quoteright/quotedblleft/quotedblright/quotesinglbase/quotedblbase/guilsinglleft/guilsinglright «»¶#0123456789/fraction/divisionslash ¼½¾°%/perthousand +/minus ±=×<>÷¬/dagger/daggerdbl §/euro ¤$¢/florin £¥¹²³/foursuperior ªºµ/gravecomb.case/acutecomb.case/circumflexcomb.case/tildecomb.case/macroncomb.case/brevecomb.case/dotaccentcomb.case/dieresiscomb.case/ringcomb.case/hungarumlautcomb.case/caroncomb.case/commaaccentcomb.case/commaturnedabovecomb.case/cedillacomb.case/ogonekcomb.case/IJ/ij \015/strokeshortoverlaycomb/strokelongoverlaycomb/caron.alt/fractslash/percentZero/NULL",
-"6"
+"/.notdef/space/nbspace ABCDEFGHIJKLMNOPOQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ/Cacute/Ccaron Ç/Cdotaccent/Dcaron/Dcroat ÐÉ/Ecaron ÊË/Edotaccent È/Emacron/Eogonek/Gbreve/Gcommaaccent/Gdotaccent/Hbar ÍÎÏ/Idotaccent Ì/Imacron/Iogonek/Kcommaaccent/Lacute/Lcaron/Lcommaaccent/Ldot/Lslash/Nacute/Ncaron/Ncommaaccent Ñ/Eng ÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE/Racute/Rcaron/Rcommaaccent/Sacute/Scaron/Scedilla/Scommaaccent/Tbar/Tcaron/Tcedilla/Tcommaaccent ÞÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring/Wacute/Wcircumflex/Wdieresis/Wgrave Ý/Ycircumflex/Ydieresis/Ygrave/Zacute/Zcaron/Zdotaccent á/abreve âäà/amacron/aogonek åãæ/cacute/ccaron ç/cdotaccent/dcaron/dcroat é/ecaron êë/edotaccent è/emacron/eogonek ð/gbreve/gcommaaccent/gdotaccent/hbar íîï/idotaccent/idotless ì/imacron/iogonek/jdotless/kcommaaccent/lacute/lcaron/lcommaaccent/ldot/lslash/nacute/ncaron/ncommaaccent ñ/eng óôöò/hungarumlaut/hungarumlautcomb/ohungarumlaut o/omacron øõ/oe/racute/rcaron/rcommaaccent/sacute/scaron/scedilla/scommaaccent/tbar/tcaron/tcedilla/tcommaaccent þúûüù/uhungarumlaut/umacron/uogonek/uring/wacute/wcircumflex/wdieresis/wgrave ý/ycircumflex/ydieresis/ygrave/zacute/zcaron/zdotaccent ß&@*©®/trademark ^~`´/circumflex/caron/caroncomb.alt/tilde ¨¯/breve/ring/hungarumlaut/dotaccent ¸/ogonek/gravecomb/acutecomb/circumflexcomb/tildecomb/macroncomb/brevecomb/dotaccentcomb/dieresiscomb/ringcomb/hungarumlautcomb/caroncomb/commaaccentcomb/commaturnedabovecomb/cedillacomb/ogonekcomb ­-/endash/emdash _.,:;!¡?¿/ellipsis ·/bullet///backslash |¦()[]{}'\"/quoteleft/quoteright/quotedblleft/quotedblright/quotesinglbase/quotedblbase/guilsinglleft/guilsinglright «»¶#0123456789/fraction/divisionslash ¼½¾°%/perthousand +/minus ±=×<>÷¬/dagger/daggerdbl §/euro ¤$¢/florin £¥¹²³/foursuperior ªºµ/gravecomb.case/acutecomb.case/circumflexcomb.case/tildecomb.case/macroncomb.case/brevecomb.case/dotaccentcomb.case/dieresiscomb.case/ringcomb.case/hungarumlautcomb.case/caroncomb.case/commaaccentcomb.case/commaturnedabovecomb.case/cedillacomb.case/ogonekcomb.case/IJ/ij \015/strokeshortoverlaycomb/strokelongoverlaycomb/caron.alt/fractslash/percentZero/NULL"
 );
 copyright = "Copyright 2020 The Siilvik Project Authors (https://github.com/aaronbell/Siilvik)";
 customParameters = (
@@ -6367,7 +6365,7 @@ unicode = 0051;
 {
 color = 5;
 glyphname = R;
-lastChange = "2020-08-12 03:03:58 +0000";
+lastChange = "2020-08-12 23:06:19 +0000";
 layers = (
 {
 anchors = (
@@ -6454,15 +6452,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"1184 0 LINE",
-"697 733 LINE",
-"549 639 LINE",
-"968 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "355 763 LINE",
 "355 1281 LINE",
 "553 1282 LINE SMOOTH",
@@ -6472,6 +6461,15 @@ nodes = (
 "879 853 OFFCURVE",
 "743 763 OFFCURVE",
 "531 763 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1184 0 LINE",
+"697 733 LINE",
+"549 639 LINE",
+"968 0 LINE"
 );
 }
 );
@@ -6562,15 +6560,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"1056 0 LINE",
-"588 704 LINE",
-"498 661 LINE",
-"930 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "282 729 LINE",
 "282 1344 LINE",
 "549 1345 LINE SMOOTH",
@@ -6580,6 +6569,15 @@ nodes = (
 "886 830 OFFCURVE",
 "746 729 OFFCURVE",
 "527 729 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1056 0 LINE",
+"588 704 LINE",
+"498 661 LINE",
+"930 0 LINE"
 );
 }
 );
@@ -6670,15 +6668,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"1367 0 LINE",
-"878 751 LINE",
-"597 632 LINE",
-"1000 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "478 783 LINE",
 "478 1201 LINE",
 "625 1201 LINE SMOOTH",
@@ -6688,6 +6677,15 @@ nodes = (
 "872 860 OFFCURVE",
 "774 783 OFFCURVE",
 "603 783 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1367 0 LINE",
+"878 751 LINE",
+"597 632 LINE",
+"1000 0 LINE"
 );
 }
 );
@@ -17448,7 +17446,7 @@ width = 1159;
 {
 color = 5;
 glyphname = o;
-lastChange = "2020-08-12 03:03:58 +0000";
+lastChange = "2020-08-12 23:31:21 +0000";
 layers = (
 {
 anchors = (
@@ -20068,7 +20066,7 @@ width = 712;
 {
 color = 5;
 glyphname = s;
-lastChange = "2020-08-12 03:03:58 +0000";
+lastChange = "2020-08-12 23:19:24 +0000";
 layers = (
 {
 anchors = (
@@ -44566,7 +44564,7 @@ width = 1401;
 {
 color = 5;
 glyphname = asciitilde;
-lastChange = "2020-08-12 03:03:58 +0000";
+lastChange = "2020-08-12 23:28:12 +0000";
 layers = (
 {
 background = {
